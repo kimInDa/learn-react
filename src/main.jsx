@@ -1,17 +1,17 @@
 
 // import { createRoot } from '../node_modules/react-dom/client';
-import { StrictMode } from 'react';
-import { createRoot } from 'react-dom/client';
-import App from './App'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
 
 
 
-createRoot(document.getElementById('root'))
+ReactDOM.createRoot(document.getElementById('root'))
 .render(
   // App 컴포넌트를 렌더링할 수 있도록 JSX 구문을 추가합니다.
-  <StrictMode>
+  <React.StrictMode>
     <App />{/*<App></App>*/}
-  </StrictMode>
+    </React.StrictMode>
   );
   
   // createRoot
