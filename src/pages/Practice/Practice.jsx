@@ -1,14 +1,15 @@
 // 스타일 및 에셋 연결
+import './Practice.css';
 
-const imageType = 'react';
+let imageType = 'react'; // any type
 
-const isShowReactImage = true;
+let isShowReactImage = true;
 
 const statusMessage = [
-  '⌛️ 대기',
-  '⏳ 로딩 중...',
-  '✅ 로딩 성공!',
-  '❌ 로딩 실패.',
+  '⌛️ 대기', // pending
+  '⏳ 로딩 중...', // loading
+  '✅ 로딩 성공!', // success (resolve)
+  '❌ 로딩 실패.', // error (fail, reject)
 ];
 
 const reactLibrary = {
@@ -19,13 +20,15 @@ const reactLibrary = {
   license: 'MIT',
 };
 
+/* -------------------------------------------------------------------------- */
+
 function Practice() {
   const renderList = () => {
     return null;
   };
 
   return (
-    <div className="App">
+    <div className="Practice">
       <h1>JSX 인 액션</h1>
       <hr />
       <dl className="descriptionList">
