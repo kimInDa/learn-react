@@ -1,6 +1,6 @@
-import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-import path from 'node:path'; // Node.js 런타임이 기본 제공하는 모듈 (파일 경로)
+import { resolve } from 'node:path';
+import { defineConfig } from 'vite';
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -9,11 +9,8 @@ export default defineConfig({
     devSourcemap: true,
   },
   resolve: {
-    // 배열 방식
-    // alias: [{ find: '@', replacement: path.resolve(__dirname, './src') }],
-    // 객체 방식
     alias: {
-      '@': path.resolve(__dirname, './src'),
+      '@': resolve(__dirname, './src'),
     },
   },
 });
