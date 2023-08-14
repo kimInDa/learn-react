@@ -1,5 +1,5 @@
 
-import React from 'react';
+import { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import './styles/global.css';
@@ -9,9 +9,9 @@ import './styles/global.css';
 ReactDOM.createRoot(document.getElementById('root'))
 .render(
   // App 컴포넌트를 렌더링할 수 있도록 JSX 구문을 추가합니다.
-  <React.StrictMode>
+  <StrictMode>
     <App />{/*<App></App>*/}
-    </React.StrictMode>
+    </StrictMode>
   );
   
   // createRoot
