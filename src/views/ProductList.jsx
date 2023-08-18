@@ -11,13 +11,13 @@ function ProductList() {
 
   // 로딩 중인 경우 화면
   if (isLoading) {
-    return <Spinner size={160} title='데이터 가져오는 중이에요.' />;
+    return <Spinner size={160} title="데이터 가져오는 중이에요." />;
   }
 
   // 오류가 발생한 경우 화면
   if (error) {
     return (
-      <div role='alert'>
+      <div role="alert">
         <h2>{error.type}</h2>
         <p>{error.message}</p>
       </div>
@@ -25,7 +25,7 @@ function ProductList() {
   }
 
   return (
-    <ul className='grid grid-cols-3 m-10'>
+    <ul className="grid grid-cols-3 m-10">
       {data.items?.map((item) => (
         <ProductItem key={item.id} item={item} />
       ))}

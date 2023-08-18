@@ -45,10 +45,10 @@ function LearnStateAndEffects() {
 
   return (
     <div
-      className='m-10 flex flex-col gap-2 items-start'
+      className="m-10 flex flex-col gap-2 items-start"
       onMouseMove={handlePrintMousePosition}
     >
-      <h2 className='text-indigo-600 text-2xl uppercase'>
+      <h2 className="text-indigo-600 text-2xl uppercase">
         상태 및 이펙트 학습하기
       </h2>
 
@@ -56,16 +56,16 @@ function LearnStateAndEffects() {
         마우스 X 좌표 : {mousePosition.x} / 마우스 Y 좌표 : {mousePosition.y}
       </output>
 
-      <h2 className='text-2xl mt-10 font-semibold'>저장소 정보 수정</h2>
-      <form className='w-1/2' onSubmit={handleSaveRepository}>
-        <div className='flex items-center gap-2 w-full'>
-          <label htmlFor='repoTitle' className='font-medium'>
+      <h2 className="text-2xl mt-10 font-semibold">저장소 정보 수정</h2>
+      <form className="w-1/2" onSubmit={handleSaveRepository}>
+        <div className="flex items-center gap-2 w-full">
+          <label htmlFor="repoTitle" className="font-medium">
             타이틀 (title)
           </label>
           <input
-            type='text'
-            name='repoTitle'
-            id='repoTitle'
+            type="text"
+            name="repoTitle"
+            id="repoTitle"
             value={repository.title}
             onChange={(e) => {
               setRepository({
@@ -76,18 +76,18 @@ function LearnStateAndEffects() {
                 profile: repository.profile,
               });
             }}
-            className='flex-1 p-1 border-b-2 border-slate-400 bg-transparent placeholder:text-slate-400'
-            placeholder='yamoo9/repository'
+            className="flex-1 p-1 border-b-2 border-slate-400 bg-transparent placeholder:text-slate-400"
+            placeholder="yamoo9/repository"
           />
         </div>
-        <div className='flex items-center gap-2 w-full'>
-          <label htmlFor='repoLink' className='font-medium'>
+        <div className="flex items-center gap-2 w-full">
+          <label htmlFor="repoLink" className="font-medium">
             링크 (href)
           </label>
           <input
-            type='text'
-            name='repoLink'
-            id='repoLink'
+            type="text"
+            name="repoLink"
+            id="repoLink"
             value={repository.link}
             onChange={(e) => {
               setRepository({
@@ -95,18 +95,18 @@ function LearnStateAndEffects() {
                 link: e.target.value,
               });
             }}
-            className='flex-1 p-1 border-b-2 border-slate-400 bg-transparent placeholder:text-slate-400'
-            placeholder='https://my-web-service.dev'
+            className="flex-1 p-1 border-b-2 border-slate-400 bg-transparent placeholder:text-slate-400"
+            placeholder="https://my-web-service.dev"
           />
         </div>
-        <div className='flex items-center gap-2 w-full'>
-          <label htmlFor='repoProfileLabel' className='font-medium'>
+        <div className="flex items-center gap-2 w-full">
+          <label htmlFor="repoProfileLabel" className="font-medium">
             프로필 레이블 (profile.label)
           </label>
           <input
-            type='text'
-            name='repoProfileLabel'
-            id='repoProfileLabel'
+            type="text"
+            name="repoProfileLabel"
+            id="repoProfileLabel"
             value={repository.profile.label}
             onChange={(e) => {
               setRepository({
@@ -120,18 +120,18 @@ function LearnStateAndEffects() {
                 },
               });
             }}
-            className='flex-1 p-1 border-b-2 border-slate-400 bg-transparent placeholder:text-slate-400'
-            placeholder='yamoo9'
+            className="flex-1 p-1 border-b-2 border-slate-400 bg-transparent placeholder:text-slate-400"
+            placeholder="yamoo9"
           />
         </div>
-        <div role='group' className='flex gap-1 mt-5'>
-          <button type='submit' className='py-1.5 px-2.5 bg-sky-500 text-white'>
+        <div role="group" className="flex gap-1 mt-5">
+          <button type="submit" className="py-1.5 px-2.5 bg-sky-500 text-white">
             저장
           </button>
           <button
-            type='reset'
+            type="reset"
             onClick={handleResetRepository}
-            className='py-1.5 px-2.5 bg-rose-500 text-white'
+            className="py-1.5 px-2.5 bg-rose-500 text-white"
           >
             취소
           </button>
