@@ -11,10 +11,8 @@ export default defineConfig({
   css: {
     devSourcemap: true,
     modules: {
-      generateScopedName: isDev
-        ? '[name]_[local]__[hash:base64:5]'
-        : '[hash:base64:4]',
-    },
+      generateScopedName: isDev ? '[name]_[local]__[hash:base64:5]' : '[hash:base64:4]'
+    }
   },
   resolve: {
     alias: {
