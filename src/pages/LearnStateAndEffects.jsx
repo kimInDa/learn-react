@@ -60,8 +60,13 @@ function LearnStateAndEffects() {
       {/* JSX: 식만 사용 가능 */}
       {data && (
         <ul>
-          {data?.map((item) => (
-            <li key={item.id}>{item.title}</li>
+          {data.items?.map((item) => (
+            <li key={item.id}>
+              <label>
+                <input type='checkbox' checked={item.done} readOnly />{' '}
+                {item.doit}
+              </label>
+            </li>
           ))}
         </ul>
       )}
