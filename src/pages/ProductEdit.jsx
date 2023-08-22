@@ -1,5 +1,5 @@
 import { useEffect, useId, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import useProductItem from '@/hooks/useProductItem';
 import Spinner from '@/components/Spinner';
 
@@ -15,6 +15,7 @@ function ProductEdit() {
   const priceId = useId();
 
   const { productId } = useParams();
+  const navigate = useNavigate();
   const { isLoading, data } = useProductItem(productId);
 
   const [formState, setFormState] = useState(initialFormState);
@@ -59,6 +60,29 @@ function ProductEdit() {
       .catch((error) => {
         console.error(error);
       });
+  };
+
+  const handleDeleteProduct = () => {
+    const userConfirm = confirm('정..말로 지울건가요? 🥹');
+
+    if (userConfirm) {
+      fetch(
+        `${
+          import.meta.env.VITE_PB_API
+        }/collections/products/records/${productId}`,
+        {
+          method: 'DELETE',
+        }
+      )
+        .then(() => {
+          // PB에서 지었다(성공)
+          // 제품 목록 페이지로 이동
+          navigate('/products');
+        })
+        .catch((error) => {
+          console.error(error);
+        });
+    }
   };
 
   if (isLoading) {
@@ -107,6 +131,9 @@ function ProductEdit() {
           </div>
           <div>
             <button type="submit">수정</button>
+            <button type="button" onClick={handleDeleteProduct}>
+              삭제
+            </button>
           </div>
         </form>
       </>
