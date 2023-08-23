@@ -4,8 +4,11 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'suit': ['SUIT Variable']
-      }
+        suit: ['SUIT Variable'],
+      },
+      backgroundImage: {
+        hero: 'url(/cover.jpg)',
+      },
     },
   },
   plugins: [],
