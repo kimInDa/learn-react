@@ -11,7 +11,7 @@ import debounce from '@/utils/debounce';
 const initialFormState = {
   title: '',
   color: '',
-  price: 0,
+  price: '',
 };
 
 function ProductEdit() {
@@ -121,10 +121,10 @@ function ProductEdit() {
             <input
               type="number"
               name="price"
+              step={1000}
               id={priceId}
-              // defaultValue={formState.price}
-              value={formState.price}
-              onChange={handleChangeInput}
+              defaultValue={formState.price}
+              onChange={handleDebounceChangeInput}
             />
           </div>
           <div>
