@@ -22,7 +22,6 @@ function ProtectRoute({ children }) {
   const wishLocationPath = `${pathname}${search}${hash}`;
 
   useEffect(() => {
-    console.log(isAuth);
     if (!isAuth) {
       import.meta.env.MODE === 'development' && toast.dismiss();
 
