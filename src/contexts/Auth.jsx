@@ -95,9 +95,10 @@ function AuthProvider({ displayName = 'AuthProvider', children }) {
   );
 }
 
+
 AuthProvider.propTypes = {
   displayName: string,
-  children: node.isRequired, // React.ReactNode
+  children: node.isRequired // React.ReactNode
 };
 
 export default AuthProvider;

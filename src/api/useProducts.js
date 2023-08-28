@@ -6,7 +6,7 @@ import pb from './pocketbase';
 export function useProducts() {
   const [data, setData] = useState(null);
   const [status, setStatus] = useState('pending');
-
+  
   async function getProductList() {
     try {
       setStatus('loading');
@@ -21,6 +21,6 @@ export function useProducts() {
   return {
     data,
     status,
-    getProductList,
-  };
+    getProductList
+  }
 }
