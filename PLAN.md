@@ -9,39 +9,40 @@
   
   ### 응답률: 54/64(83%), -10
 
-- 학습 난이도: 4.43/5 (88.6)
-- 학습 만족도: 3.52/5 (70.4)
-- 진도에 대한 생각: 3.48/5 (69.6)
-- 실습시간 충분 여부: 3.46/5 (69.2)
-- 학습 상담 만족도: 3.41/5 (68.2)
-- 기초 특강 만족도: 4.11/5 (82.2)
+  - 학습 난이도: 4.43/5 (88.6)
+  - 학습 만족도: 3.52/5 (70.4)
+  - 진도에 대한 생각: 3.48/5 (69.6)
+  - 실습시간 충분 여부: 3.46/5 (69.2)
+  - 학습 상담 만족도: 3.41/5 (68.2)
+  - 기초 특강 만족도: 4.11/5 (82.2)
+  
+  ### 아쉬웠던 점
 
-### 아쉬웠던 점
+  1. 리액트 너무 너무 어렵다. 그런데 배울 것도 너무 많다.
+  1. 화면 전환을 최소화했으면 한다. (WI-FI 이슈로 수업 듣기 어려움)
+  1. 8시간 강의 듣기 정말 힘들다. 진도 때문에 이해는 되지만 약간 무리다.
+  1. 수업 난이도가 높은데 진도가 너무 빨라 수업 따라가기 힘들다.
+  1. 초반 질문이 많아 지체되었고, 다룰 내용도 많아 진도가 느린 것처럼 느껴진다.
+  1. 잘 따라가는 1/3 학생들만 챙기고, 못 따라가는 2/3 학생들은 챙기지 않는다.
+  1. 한 번 흐름을 놓치면 따라가기 힘든 수업이다. 여러모로 아쉬운 수업이다.
+  1. 정규 수업을 보충해야 하는 기초 수업에서 수업 외적인 추가 내용을 다뤄 아쉬웠다.
+  1. 어려운 기술 용어를 쉽게 풀었다면 좀 더 이해하기 쉬웠을 것이다.
+  1. 어려운 개념을 쉽게 설명하기 보다, 제대로 설명하려 해서 어렵다.
+  1. API 문서 읽는 법을 천천히 진행하면 좋겠다.
+  1. 솔직히 수업 시간에 자바스크립트 공부한다.
+  1. 더 배우고 싶다. 진도를 나가달라.
 
-1. 리액트 너무 너무 어렵다. 그런데 배울 것도 너무 많다.
-1. 화면 전환을 최소화했으면 한다. (WI-FI 이슈로 수업 듣기 어려움)
-1. 8시간 강의 듣기 정말 힘들다. 진도 때문에 이해는 되지만 약간 무리다.
-1. 수업 난이도가 높은데 진도가 너무 빨라 수업 따라가기 힘들다.
-1. 초반 질문이 많아 지체되었고, 다룰 내용도 많아 진도가 느린 것처럼 느껴진다.
-1. 잘 따라가는 1/3 학생들만 챙기고, 못 따라가는 2/3 학생들은 챙기지 않는다.
-1. 한 번 흐름을 놓치면 따라가기 힘든 수업이다. 여러모로 아쉬운 수업이다.
-1. 정규 수업을 보충해야 하는 기초 수업에서 수업 외적인 추가 내용을 다뤄 아쉬웠다.
-1. 어려운 기술 용어를 쉽게 풀었다면 좀 더 이해하기 쉬웠을 것이다.
-1. 어려운 개념을 쉽게 설명하기 보다, 제대로 설명하려 해서 어렵다.
-1. API 문서 읽는 법을 천천히 진행하면 좋겠다.
-1. 솔직히 수업 시간에 자바스크립트 공부한다.
-1. 더 배우고 싶다. 진도를 나가달라.
+  ### 좋았던 점
 
-### 좋았던 점
-
-1. 수업 전 배울 내용을 먼저 이야기 하고, 수업 끝날 때 정리해서 좋았다.
-1. 실질적인 프로젝트 개발에 중요한 부분 학습이라 도움이 많이 되었다.
-1. 학습 주제 별로 넘버링 해줘서 복습 시 해매지 않아 좋았다.
-1. 학습 문서(notion)는 수료 이후에도 열람이 가능할까?
-1. 목 상태가 안 좋음에도 열정적인 모습 보여줘서 감사했다.
-1. 적극적으로 피드백 받아 개선하려 노력한 점에 감사했다.
-1. 프로젝트 시작 전, 다양한 주제를 다뤄줘서 좋았다.
+  1. 수업 전 배울 내용을 먼저 이야기 하고, 수업 끝날 때 정리해서 좋았다.
+  1. 실질적인 프로젝트 개발에 중요한 부분 학습이라 도움이 많이 되었다.
+  1. 학습 주제 별로 넘버링 해줘서 복습 시 해매지 않아 좋았다.
+  1. 학습 문서(notion)는 수료 이후에도 열람이 가능할까?
+  1. 목 상태가 안 좋음에도 열정적인 모습 보여줘서 감사했다.
+  1. 적극적으로 피드백 받아 개선하려 노력한 점에 감사했다.
+  1. 프로젝트 시작 전, 다양한 주제를 다뤄줘서 좋았다.
 </details>
+
 
 ## 앱 상태 관리
 
@@ -62,25 +63,28 @@
 - [ ] 테마(theme) 상태 방법을 Zustand 방식으로 변경 (이전 방식과 비교)
 - [ ] 미들웨어 구성으로 손쉽게 상태 관리 (create ← [immer](https://immerjs.github.io/immer/) ← [devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ko))
 - [ ] [Ramda](https://ramdajs.com/) 라이브러리를 활용해 미들웨어가 포함된 createStore 유틸리티 작성<br /><details>
-    <summary>createStore 유틸리티</summary>
+  <summary>createStore 유틸리티</summary>
 
   Ramda 라이브러리 + Redux 개발 도구 + Immer 라이브러리를 활용한 유틸리티 함수 작성
-
   ```js
   import pipe from 'ramda/es/pipe';
   import { produce } from 'immer';
   import { create } from 'zustand';
   import { devtools } from 'zustand/middleware';
-
+  
   // immer 미들웨어
-  const immer = (config) => (set, get, api) =>
+  const immer = (config) => (set, get, api) => 
     config((fn) => set(produce(fn)), get, api);
 
   // createStore 유틸리티
-  export const createStore = pipe(devtools, immer, create);
+  export const createStore = pipe(
+    devtools,
+    immer,
+    create
+  );
   ```
+</details>
 
-  </details>
 
 ## 서버 상태 관리
 
@@ -112,9 +116,9 @@
 - [ ] [이미지 최적화 (Optimization Images)](https://www.npmjs.com/package/@vheemstra/vite-plugin-imagemin)
 - [ ] [프로덕션 버전으로 빌드(Build for Production)](https://ko.vitejs.dev/guide/build.html)
 - [ ] [멋사 4기, 성능 개선 사례](https://github.com/yamoo9/likelion-FEQA/issues/286#issuecomment-1504926019) ( [BEFORE](https://github.com/yamoo9/likelion-FEQA/files/11183331/POTATO-MARKET-main.zip) → [AFTER](https://github.com/yamoo9/likelion-FEQA/files/11209558/POTATO-MARKET-review-by-yamoo9.zip) )<br /><details>
-    <summary>Vite 성능 최적화 구성 (참고)</summary>
-    
-    Vite 이미지 최적화 플러그인 패키지를 설치합니다.
+  <summary>Vite 성능 최적화 구성 (참고)</summary>
+  
+  Vite 이미지 최적화 플러그인 패키지를 설치합니다.
 
   ```bash
   pnpm add -D @vheemstra/vite-plugin-imagemin imagemin-{gifsicle,mozjpeg,pngquant,svgo,webp}
@@ -123,15 +127,15 @@
   Vite 구성 파일을 열어 최적화 구성을 추가합니다.
 
   ```js
-  import * as path from 'node:path';
-  import react from '@vitejs/plugin-react';
-  import { defineConfig, splitVendorChunkPlugin } from 'vite';
-  import viteImagemin from '@vheemstra/vite-plugin-imagemin';
-  import imageminGifSicle from 'imagemin-gifsicle';
-  import imageminMozjpeg from 'imagemin-mozjpeg';
-  import imageminPngQuant from 'imagemin-pngquant';
-  import imageminSvgo from 'imagemin-svgo';
-  import imageminWebp from 'imagemin-webp';
+  import * as path from "node:path";
+  import react from "@vitejs/plugin-react";
+  import { defineConfig, splitVendorChunkPlugin } from "vite";
+  import viteImagemin from "@vheemstra/vite-plugin-imagemin";
+  import imageminGifSicle from "imagemin-gifsicle";
+  import imageminMozjpeg from "imagemin-mozjpeg";
+  import imageminPngQuant from "imagemin-pngquant";
+  import imageminSvgo from "imagemin-svgo";
+  import imageminWebp from "imagemin-webp";
 
   export default defineConfig({
     // ...
@@ -160,21 +164,22 @@
       rollupOptions: {
         output: {
           manualChunks: {
-            react: ['react', 'react-dom'],
-            reactRouter: ['react-router', 'react-router-dom'],
+            react: ["react", "react-dom"],
+            reactRouter: ["react-router", "react-router-dom"],
           },
         },
       },
     },
-  });
+  });  
   ```
+</details>
 
-  </details>
 
 ## 배포
 
 - [ ] React 애플리케이션 배포 ([vercel](https://ko.vitejs.dev/guide/static-deploy.html#vercel))
 - [ ] PocketBase 데이터베이스 배포 ([pockethost.io](https://pockethost.io) / [Fly.io](https://fly.io/))
+
 
 ## 풀스택 프레임워크
 
@@ -184,10 +189,10 @@
 - [ ] [Next.js 프로젝트 구조](https://www.notion.so/euid/95b8c3ba445545f2afd932bf84f4c7d7)
 - [ ] [앱 라우터(v13) vs. 페이지 라우터(v12)](https://nextjs.org/)
 - [ ] [앱 라우터를 사용한 라우팅](https://www.notion.so/euid/15824eb80fad4eef832c91067730ae0f)
-  - [ ] [폴더 및 파일 기반 라우팅 시스템](https://www.notion.so/euid/dd375a95636a468ab05b9ec0f3b727e2)
-  - [ ] [레이아웃 & 페이지](https://www.notion.so/euid/0575b86744834c21bf623a366ca49cc7)
-  - [ ] [내비게이션 & 링크](https://www.notion.so/euid/4b8feb28baa24203be743a2b5cb02da8)
-  - [ ] [다이내믹 라우트](https://www.notion.so/euid/4c7f5195de374b25876278babf61f9c2)
+    - [ ] [폴더 및 파일 기반 라우팅 시스템](https://www.notion.so/euid/dd375a95636a468ab05b9ec0f3b727e2)
+    - [ ] [레이아웃 & 페이지](https://www.notion.so/euid/0575b86744834c21bf623a366ca49cc7)
+    - [ ] [내비게이션 & 링크](https://www.notion.so/euid/4b8feb28baa24203be743a2b5cb02da8)
+    - [ ] [다이내믹 라우트](https://www.notion.so/euid/4c7f5195de374b25876278babf61f9c2)
 - [ ] [Raect 서버 컴포넌트 vs. 클라이언트 컴포넌트](https://www.notion.so/euid/React-eabe527dcf5f4873a00c6c8c5fbe9a68)
 - [ ] [데이터 가져오기](https://www.notion.so/euid/cb5b6c2bb6144d3397454e1453b36026)
 
@@ -198,26 +203,26 @@
 - [x] 파비콘 / 로고 애니메이션
 - [x] 페이지 전환 애니메이션 ([참고](https://www.framer.com/motion/examples/#react-router-6-page-transitions) / [createBrowserRouter 해결 방법](https://stackoverflow.com/a/74351729))
 - [x] 프로덕트 리스트 페이지 시퀀스 애니메이션
-- [x] 페이지 디자인(정리)
-  - [x] 회원가입
-  - [x] 로그인
-  - [x] 상품 등록 (페이지 제목 설정)
-  - [x] 상품 수정 (페이지 제목 설정)
+- [x] 페이지 디자인(정리) 
+    - [x] 회원가입
+    - [x] 로그인
+    - [x] 상품 등록 (페이지 제목 설정)
+    - [x] 상품 수정 (페이지 제목 설정)
 - [x] 반응형 디자인
-  - [x] 프로덕트 페이지 (멀티 컬럼)
-  - [x] `md:`, `lg:` 브레이크포인트 클래스 이름 활용
+    - [x] 프로덕트 페이지 (멀티 컬럼)
+    - [x] `md:`, `lg:` 브레이크포인트 클래스 이름 활용
 - [x] 다크 모드 디자인
-  - [x] `dark:` 클래스 이름 활용
+    - [x] `dark:` 클래스 이름 활용
 
 ## 컴포넌트 추출
 
 - [x] 재사용 가능하도록 반복적인 로직을 컴포넌트로 추출
-  - [ ] 회원가입
-  - [x] 로그인
-  - [ ] 상품 등록
-  - [ ] 상품 수정
+    - [ ] 회원가입
+    - [x] 로그인
+    - [ ] 상품 등록
+    - [ ] 상품 수정
 
-## 인증
+## 인증 
 
 - [x] `useStorage` 커스텀 훅 리팩터링
 
@@ -226,9 +231,9 @@
 - [x] 인증 상태 + 보호된 루트에서 새로고침 시 로그인 페이지로 이동하는 문제
 - [x] 루트 보호 URL 직접 접속 시, 로그인 후 접속 URL로 연결
 - [x] 브라우저 히스토리 이력 대체(replace)
-  1. 루트 보호 URL 접속 시도
-  1. 로그인 페이지 이동 (로그인 접속 이력 제외)
-  1. 접속 URL로 연결
+    1. 루트 보호 URL 접속 시도
+    1. 로그인 페이지 이동 (로그인 접속 이력 제외)
+    1. 접속 URL로 연결
 
 ## PocketBase 관계 확장
 
@@ -248,6 +253,7 @@
 - [ ] 상품 수정(EDIT)
 - [ ] 상품 삭제(DELETE)
 
+
 # 8. 25(금)
 
 ## 컴포넌트 속성(props) 검사
@@ -264,8 +270,8 @@
 ## 라우팅
 
 - [x] 인증에 따른 라우팅 접근 시도 중 발생한 경고 해결 방법
-  - Warning: Cannot update a component (`Ie`) while rendering a different component (`ProtectRoute`).
-  - To locate the bad setState() call inside `ProtectRoute`, follow the stack trace as described in https://reactjs.org/link/setstate-in-render
+    - Warning: Cannot update a component (`Ie`) while rendering a different component (`ProtectRoute`). 
+    - To locate the bad setState() call inside `ProtectRoute`, follow the stack trace as described in https://reactjs.org/link/setstate-in-render
 - [x] [useLocation](https://www.notion.so/euid/Advanced-v6-3-09cfe08490104dd18167f4c968de4b3f#75f0d60253834b8f93c1dc910e44e9df) 훅 (`pathname`, `search`, `hash`, `state`)
 
 ## 파일 업로드
@@ -274,6 +280,7 @@
 - [x] [form](https://developer.mozilla.org/ko/docs/Web/HTML/Element/form) 폼 요소 ([`multipart/form-data`](https://developer.mozilla.org/ko/docs/Web/HTML/Element/form#attr-enctype))
 - [x] [input:file](https://developer.mozilla.org/ko/docs/Web/HTML/Element/input/file) 파일 업로드
 - [x] [FormData](https://developer.mozilla.org/ko/docs/Web/API/FormData) 폼 데이터
+
 
 # 8. 24(목)
 
@@ -300,6 +307,7 @@
 - [x] 루트 보호(Protected Route) 컴포넌트
 - [x] 토스트(Toast) 알림 (참고: [react-hot-toast](https://react-hot-toast.com/docs/toast))
 
+
 # 8. 23(수)
 
 ## 이슈 솔루션
@@ -314,6 +322,7 @@
 1. 프롭스 드릴링(Props Drilling) 현상
 1. 컨텍스트(Context)를 사용한 상태 공급
 1. React Context 개발 도구 (참고: [react-context-devtool](https://github.com/deeppatel234/react-context-devtool))
+
 
 # 8. 22(화)
 
@@ -339,37 +348,38 @@
 
 1. React Router 동적 라우팅(Dynamic Routing)
 
+
 # 8. 18(금)
 
 ## 커스텀 훅 & 클라이언트 측 라우팅
 
 1. 커스텀 훅(Custom Hook)을 사용해 재사용 로직(logic)을 분리합니다.
 1. 클라이언트 사이드 라우팅(CSR) 적용 방법을 학습합니다.
-   - React Router v6.4+ 라이브러리 설치
-   - React Router 컴포넌트를 활용해 라우터(Router) 구성
+    - React Router v6.4+ 라이브러리 설치
+    - React Router 컴포넌트를 활용해 라우터(Router) 구성
 
 # 8. 17(목)
 
 ## 컴포넌트 사이드 이펙트 & 백엔드 데이터베이스 솔루션
 
 1. 사이드 이펙트를 관리하는 이벤트 핸들러 및 useEffect 훅의 콜백 함수를 실습하고 요약 정리합니다.
-   - 이펙트 콜백 함수 (effect callback function)
-   - 이펙트 콜백 함수 실행 조건 설정 (dependencies)
-   - 이펙트 클린업 함수 (cleanup)
+    - 이펙트 콜백 함수 (effect callback function)
+    - 이펙트 콜백 함수 실행 조건 설정 (dependencies)
+    - 이펙트 클린업 함수 (cleanup)
 1. PocketBase 다운로드 및 콜렉션 구성
-   - 운영체제 별 다운로드
-   - 애플리케이션 실행
-   - 콜렉션, 레코드, 필드 개념
-   - todos 콜렉션 생성 및 레코드 작성
-   - 컴포넌트에서 useEffect 훅을 사용해 데이터 가져오기
+    - 운영체제 별 다운로드
+    - 애플리케이션 실행
+    - 콜렉션, 레코드, 필드 개념
+    - todos 콜렉션 생성 및 레코드 작성
+    - 컴포넌트에서 useEffect 훅을 사용해 데이터 가져오기
 
 # 8. 16(수)
 
 ## 컴포넌트 상태 관리
 
 1. 데이터 타입 별 상태 관리 방법을 실습합니다.
-   - <u>number</u> : `count`, `age`, `x`, `y`, `selectedFontWeight`
-   - <u>string</u> : `firstName`, `lastName`, `message`, `selectedColor`
-   - <u>boolean</u> : `isMounted`, `isVisible`, `isSubmitted`
-   - <u>object</u> : `mousePosition`
-   - <u>array</u> : `colors`, `fontWeights`
+    - <u>number</u> : `count`, `age`, `x`, `y`, `selectedFontWeight`
+    - <u>string</u> : `firstName`, `lastName`, `message`, `selectedColor`
+    - <u>boolean</u> : `isMounted`, `isVisible`, `isSubmitted`
+    - <u>object</u> : `mousePosition`
+    - <u>array</u> : `colors`, `fontWeights`
