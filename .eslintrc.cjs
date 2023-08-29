@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  env: { browser: true, es2020: true, node: true },
+  env: { browser: true, es2020: true },
   extends: [
     'eslint:recommended',
     'plugin:react/recommended',
@@ -9,10 +9,10 @@ module.exports = {
   ],
   ignorePatterns: [
     'dist',
-    '.eslintrc.cjs',
     'pocketbase',
     // 'src/learn',
     'src/views',
+    '.eslintrc.cjs',
   ],
   parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
   settings: { react: { version: '18.2' } },
